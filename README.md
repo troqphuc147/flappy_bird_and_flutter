@@ -10,7 +10,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Game's Ui
-![image](https://user-images.githubusercontent.com/76181998/130276027-1f4da4e1-3c3c-4c30-bcbb-58878fcbeb1f.png)
-![image](https://user-images.githubusercontent.com/76181998/130276198-f7a4987e-5f13-4a39-b456-31406737f978.png)
-![image](https://user-images.githubusercontent.com/76181998/130276579-370da2fc-a9cb-49af-8062-7f1fa7ff77f0.png)
+![image](https://user-images.githubusercontent.com/76181998/130276898-22a7de44-1665-471a-b00a-3054a7e223fe.png)
+![image](https://user-images.githubusercontent.com/76181998/130276992-91970c37-54e2-4eb1-ad03-cdf167415d05.png)
+![image](https://user-images.githubusercontent.com/76181998/130277078-e386f41c-38cb-4438-a14f-24b4e0dcd214.png)
+
 "# flappy_bird_and_flutter" 
